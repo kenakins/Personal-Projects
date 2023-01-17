@@ -1,7 +1,8 @@
 # Program: Lesson 2 Oder Form
 # Programmer: Makena Barnett
 # Date: 1/16/2023
-# Purpose: The purpose of this lab is to design a functional Graphical User Interface in Python using Tkinter. 
+# Purpose: The purpose of this lab is to design a functional Graphical User Interface in Python using Tkinter.
+ 
 
 from tkinter import *
 import tkinter as tk
